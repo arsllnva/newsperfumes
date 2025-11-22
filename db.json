@@ -4,14 +4,14 @@
       "id": 1,
       "title": "Amandus — новый аромат от Manos Gerakinis",
       "date": "2025-11-23",
-      "imageUrl": "https://raw.githubusercontent.com/arsllnva/newsperfumes/blob/2a835a3bec72ffb19d80adb1ca2e3c9b0b504c20/picturesandlogos/amandus.webp",
+      "image": "https://raw.githubusercontent.com/arsllnva/newsperfumes/main/picturesandlogos/amandus.webp",
       "content": "Афинский бренд представляет своё новое творение, вдохновлённое мифом о Филлиде и Демофонте — историей о фракийской царевне, которая, отчаявшись дождаться возвращения своего возлюбленного с Троянской войны, умерла от горя и была превращена богами в миндальное дерево. Согласно мифу, это миндальное дерево внезапно расцвело, когда Демофонт, слишком поздно вернувшийся с войны, обнял его. Созданный Маносом Геракинисом в сотрудничестве с Софией Барделли, Amandus представляет собой гурманский аромат, построенный вокруг миндального аккорда."
     },
     {
       "id": 2,
       "title": "Miraj возрождает EvaLux: аромат из прошлого в современном прочтении",
       "date": "2025-11-24",
-      "image": "picturesandlogos/miraj.png",
+      "image": "https://raw.githubusercontent.com/arsllnva/newsperfumes/main/picturesandlogos/miraj.png",
       "content": "Впервые после перезапуска бренда в 2022 году Miraj вновь обратился к своему парфюмерному наследию. В этот раз речь идёт о EvaLux. Созданный в 1970-х годах как флагман линии Eva, EvaLux позиционировался как роскошный парфюм для особых случаев."
     }
   ]
